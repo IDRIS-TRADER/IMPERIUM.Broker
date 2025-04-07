@@ -1898,6 +1898,7 @@ body {
     .content-first__column-first {
         text-align: center;
         position: relative;
+        left: 20px;
     }
 
     .header__menu--burger {
