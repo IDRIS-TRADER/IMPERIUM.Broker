@@ -1927,7 +1927,7 @@ body {
     .content-first__column-second {
         transform: scale(0.5);
         position: absolute;
-        left: -190px;
+        left: -170px;
         top: -100px;
     }
 
